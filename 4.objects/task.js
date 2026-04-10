@@ -43,4 +43,3 @@ let student2 = new Student("Артём", "мужской", 25);
 student2.setSubject("Geometry");
 student2.exclude('плохая учёба');
 console.log(student2);
-
